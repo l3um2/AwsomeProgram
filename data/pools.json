@@ -1,0 +1,1143 @@
+[
+  {
+    "dex_name": "dlmm",
+    "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "pool_id": "8Ve9KtGNtLRxCQNAVfkHEP5GRZHjdj6BjB1RQFZewG6V",
+    "pair": "$WIF/WSOL",
+    "tvl": 60479.957930869015
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "pool_id": "5LAzU2jn92pJpUbBUSurT7i4GgSPkrrWbqfchUNU8fyB",
+    "pair": "USDT/WSOL",
+    "tvl": 19613.980980705146
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "pool_id": "AtcGozT6i1GR3wJAjVwRwmt7qbHqZrBUqKs2DcMAKoVe",
+    "pair": "Bonk/WSOL",
+    "tvl": 69786.95666664868
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+    "pool_id": "GF9MHYopv9L4jp9MgFG35Mht8Ucq4vpxDmSFNtw4dgJZ",
+    "pair": "TROLL/WSOL",
+    "tvl": 46115.607713420846
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+    "pool_id": "8e8EiakqpXzeJoZ1h5ZrTSN6SsXXukP2JN2E9N6cFwKm",
+    "pair": "JLP/WSOL",
+    "tvl": 307157.69682937436
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "3msVd34R5KxonDzyNSV5nT19UtUeJ2RF1NaQhvVPNLxL",
+    "pair": "USDC/WSOL",
+    "tvl": 17455.140155598696
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+    "pool_id": "DhpTrtGtFqgSWXHzRz5J4F3ZsqapZEiDBHHtSmaN8vfF",
+    "pair": "WBTC/WSOL",
+    "tvl": 30074.560905645918
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "8gJ7UWboMeQ6z6AQwFP3cAZwSYG8udVS2UesyCbH79r7",
+    "pair": "USDC/WSOL",
+    "tvl": 129275.79765999148
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+    "pool_id": "GT61WSpicGVEQHVEE2pAEZkbJfwxmeoBHPUkohXazXPX",
+    "pair": "WETH/WSOL",
+    "tvl": 244112.6587747361
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "5rCf1DM8LjKTw4YqhnoLcngyZYeNnQqztScTogYHAS6",
+    "pair": "USDC/WSOL",
+    "tvl": 8175091.94493381
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+    "pool_id": "8iUmp62YEoqy8a7atYptPkXzAtrhgYo4HNy2BRXgP7HV",
+    "pair": "Hosico/WSOL",
+    "tvl": 36252.324500815244
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+    "pool_id": "H5sVUKA5jqTyBCVC3BvVTE7s72MSmdf75hCKHeKpaH5T",
+    "pair": "TROLL/WSOL",
+    "tvl": 58880.46679476679
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+    "pool_id": "62KR7tk1KWARJ9PdCgoK9tTcTJBvDjB1aEcdr8myxKXN",
+    "pair": "SPX/WSOL",
+    "tvl": 53253.91783699478
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "pool_id": "71HuFmuYAFEFUna2x2R4HJjrFNQHGuagW3gUMFToL9tk",
+    "pair": "TRUMP/WSOL",
+    "tvl": 827494.6476345449
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "Cy1GS2FqefgaMbi45UunrUzin1rfEmTUYnomddzBpump",
+    "pool_id": "9REnhWkexAXopmGHV3TvprquKcuhJanDqB8hTocihxNk",
+    "pair": "MOBY/WSOL",
+    "tvl": 24507.28943121878
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
+    "pool_id": "6i9ktCx9fEUQMMX3616UHf2N1Se2SUCfYCgPyifZhzo2",
+    "pair": "MOODENG/WSOL",
+    "tvl": 53048.73678613623
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "HTvjzsfX3yU6BUodCjZ5vZkUrAxMDTrBs3CJaq43ashR",
+    "pair": "USDC/WSOL",
+    "tvl": 985221.9649023694
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+    "pool_id": "9kXysT39TsPmsgz4bPkVdZwbB4ANaBEredkywRy3Lg2F",
+    "pair": "Hosico/WSOL",
+    "tvl": 800477.8377843795
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
+    "pool_id": "67C4rdUriP9EFbUo7CeoiFhM52Jgu9LZpe37Jk2k1tHZ",
+    "pair": "USDUC/WSOL",
+    "tvl": 368704.87701223395
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "FbkX1h2YTs171cEMa4GrV7XbAiQt5zSmV2CjfYWxXJDP",
+    "pair": "USDC/WSOL",
+    "tvl": 59848.717424666094
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pool_id": "6wJ7W3oHj7ex6MVFp2o26NSof3aey7U8Brs8E371WCXA",
+    "pair": "Fartcoin /WSOL",
+    "tvl": 732314.8682538664
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "pool_id": "2PJ3kZ2eBkpxzHzJLJS3iZkXjhnFKx2npEaZsiKzZJbC",
+    "pair": "USDT/WSOL",
+    "tvl": 62099.30233288366
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "2sf5NYcY4zUPXUSmG6f66mskb24t5F8S11pC1Nz5nQT3",
+    "pair": "USDC/WSOL",
+    "tvl": 123894.97592306742
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "CDBdbNqmrLu1PcgjrFG52yxg71QnFhBZcUE6PSFdbonk",
+    "pool_id": "8JmZPyfDB3xTbPqoVp9BpZeWJ8YnGRe98tMjQUqKskby",
+    "pair": "LetsBONK/WSOL",
+    "tvl": 58766.857207360335
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+    "pool_id": "EgSDeuHbP1AUF9Artd2qfquevKFdpkPTrnSFcPoXTf78",
+    "pair": "JLP/WSOL",
+    "tvl": 75967.64887393126
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "9oCwYQJYCWHeXnodFCxdqY1kV4uBPo5P7yWGkNJ2Wjj3",
+    "pair": "USDC/WSOL",
+    "tvl": 969622.3171270422
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "CfVs3waH2Z9TM397qSkaipTDhA9wWgtt8UchZKfwkYiu",
+    "pool_id": "DVjH5LdKdPqoLpagR93vFdZk5PUqKsb5dUdYAH9w5Z5P",
+    "pair": "KNET/WSOL",
+    "tvl": 26607.22517774706
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+    "pool_id": "4kdxjt8pKEW4qV4ji4HANixwswDJw3Egn8L4x2BEWQqT",
+    "pair": "WBTC/WSOL",
+    "tvl": 1855247.8614787604
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "5XRqv7LCoC5FhWKk5JN8n4kCrJs3e4KH1XsYzKeMd5Nt",
+    "pair": "USDC/WSOL",
+    "tvl": 272784.4178260663
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "4YVLUZGEhsjfsWuxRbo6h18vL297HYRHTrLVE8bwpyCW",
+    "pair": "USDC/WSOL",
+    "tvl": 24905.753816348646
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "JosjEXh69RckgSs2AWsN1xN8zmiSHxBuJjHLURJnHhg",
+    "pool_id": "HDG3EdnG487vmy2DGJsPfVggkTLPi4GLa8Gg1xRVT5xN",
+    "pair": "JOS/WSOL",
+    "tvl": 54724.82543742577
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "BGm1tav58oGcsQJehL9WXBFXF7D27vZsKefj4xJKD5Y",
+    "pair": "USDC/WSOL",
+    "tvl": 2917344.832699236
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2",
+    "pool_id": "FTUUwFN25knhihreUS9hjmBS2zZMJHdTZVAiCKedhjw9",
+    "pair": "aura/WSOL",
+    "tvl": 384594.96060501446
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "JB2wezZLdzWfnaCfHxLg193RS3Rh51ThiXxEDWQDpump",
+    "pool_id": "EHks3xWvbScHwygkB1QMsz38rEmht5tE1yyAreRUWELj",
+    "pair": "LABUBU/WSOL",
+    "tvl": 100813.35625574896
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
+    "pool_id": "2i35yzeYxV5PFjvMNhZYQd6pH8PRXrCQYiv7tUYKXd6C",
+    "pair": "ME/WSOL",
+    "tvl": 79055.02533130048
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "GY9inD1bJ1P96N9fWZWV2v8UWgKK7ad38kSPyNwR2ZLt",
+    "pair": "USDC/WSOL",
+    "tvl": 16860.487291606263
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "pool_id": "8nGw9VHzwTBLcAfxWYnFLWbind4tJPSAXiq8nB89mx9d",
+    "pair": "JUP/WSOL",
+    "tvl": 39986.64877252315
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "pool_id": "A3N64gxHQL8b2cQ75JM3nVqoRFYWmntaEUFfDmhYe1Nv",
+    "pair": "PENGU/WSOL",
+    "tvl": 162045.46956869945
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "pool_id": "BoeMUkCLHchTD31HdXsbDExuZZfcUppSLpYtV3LZTH6U",
+    "pair": "JitoSOL/WSOL",
+    "tvl": 15055862.185639223
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
+    "pool_id": "CTKgkMdyEMBw7H5PLCzf2NoRWP98XrjXngsS8zLfKK8Q",
+    "pair": "MOODENG/WSOL",
+    "tvl": 12802.394245026486
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY",
+    "pool_id": "G6pyzbnYM3qxpnPqvutHsjZuqPUvRZu14evZ6Wyx6RLD",
+    "pair": "BMT/WSOL",
+    "tvl": 298832.77766575344
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
+    "pool_id": "B5KcmVe9VpJuvWVdEphCF25mMbvrEZxXw82A299bwcYK",
+    "pair": "zBTC/WSOL",
+    "tvl": 480493.5143181007
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "2DSFvQtdoqv7DjPgXL5tjTYJ3ABBnoBeTfAJTXNdbonk",
+    "pool_id": "GZ6mcn7tVa9K7MggXDZEjfVHWyneZej8pCkz2mM2MRJe",
+    "pair": "TONIC/WSOL",
+    "tvl": 14541.680801999959
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "JB2wezZLdzWfnaCfHxLg193RS3Rh51ThiXxEDWQDpump",
+    "pool_id": "BdSPbzsddFGBh8KxfE9rfLGjRietUU7BRDMRw8H8VZcf",
+    "pair": "LABUBU/WSOL",
+    "tvl": 80158.06103300485
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "pool_id": "6oFWm7KPLfxnwMb3z5xwBoXNSPP3JJyirAPqPSiVcnsp",
+    "pair": "Bonk/WSOL",
+    "tvl": 132190.99987619836
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "JB2wezZLdzWfnaCfHxLg193RS3Rh51ThiXxEDWQDpump",
+    "pool_id": "4BwvtVkGhcXEL3NqZvsww3HEpHyuDt9XCFicMBYa99yr",
+    "pair": "LABUBU/WSOL",
+    "tvl": 11498.72850387687
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "sZxb9vrxJBpFiJBogovhfkYqfapVzveLEU4TmzWv4GN",
+    "pair": "USDC/WSOL",
+    "tvl": 363010.6961462975
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "5BoHD7DAHsGCA9D8eUkkZTgWTrnpad6G18MnTq3cUS86",
+    "pair": "USDC/WSOL",
+    "tvl": 234172.319277381
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "Ey59PH7Z4BFU4HjyKnyMdWt5GGN76KazTAwQihoUXRnk",
+    "pool_id": "DzTF9ZRoxngabYgXCrsNiuwTy4imkmrW6mQ621mUoZPi",
+    "pair": "LAUNCHCOIN/WSOL",
+    "tvl": 362445.67483511055
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+    "pool_id": "BkocTzcvrhjwy38EYVyvhhVydeyqedasLVCJ8Z2HFyCN",
+    "pair": "neet/WSOL",
+    "tvl": 52957.24122669926
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
+    "pool_id": "6qs6RBvKxaw1ncWrXyiZt4RCju8w2RWe3vY1WFVK5wuH",
+    "pair": "USDUC/WSOL",
+    "tvl": 111577.2986841473
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "Ey59PH7Z4BFU4HjyKnyMdWt5GGN76KazTAwQihoUXRnk",
+    "pool_id": "CwePRtobNQcoY6bEcoiJSEFsnhECrXmhopSqGerkZ4cR",
+    "pair": "LAUNCHCOIN/WSOL",
+    "tvl": 48661.78859769825
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "6WTbcDmtqDNwxxLe9YzHzpSSBKQ7AduZG7SmYWpRwjZZ",
+    "pair": "USDC/WSOL",
+    "tvl": 475694.52223131096
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+    "pool_id": "4UopaeYzxPyHtSYcvb1Cj9U3Z8uUf3yngsrTExqi2JAh",
+    "pair": "KMNO/WSOL",
+    "tvl": 123376.23585040515
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pool_id": "CUwZFTfSmwjS7MXUNAaYxBqygmki7CWVoYQBayU3U4MY",
+    "pair": "Fartcoin /WSOL",
+    "tvl": 267513.27585512673
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+    "pool_id": "DqwDrSibfaPq7gL52VdcMAjzQY7vkc9tTz4KrUumHsNw",
+    "pair": "KMNO/WSOL",
+    "tvl": 19288.87550886279
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "mae8vJGf8Wju8Ron1oDTQVaTGGBpcpWDwoRQJALMMf2",
+    "pool_id": "HUWAQEwQJk2F2Ne2WCsroNog7RcS2eaTwqP6p8XjPeNx",
+    "pair": "MASHA/WSOL",
+    "tvl": 71927.51849712111
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+    "pool_id": "6yUh6uJ7UpCGQXSXkrgQyFLDEcs61YXabVar34ia4p1L",
+    "pair": "TROLL/WSOL",
+    "tvl": 133334.23520908126
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "pool_id": "CyrzGrL9U9x9FfqfQiTi7kWsvJ9mK97tGxtPF1AV8E8d",
+    "pair": "USDT/WSOL",
+    "tvl": 60843.051830891345
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pool_id": "BhjvwZoCir2jqVrdGemebDFmTeMW3eENFrxYffkPfj1Y",
+    "pair": "Fartcoin /WSOL",
+    "tvl": 283668.6927763794
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+    "pool_id": "J2Gsg3xTDjM8UZjKdEqzBeDwitHb2Ux6TSBX5RzsE42r",
+    "pair": "JLP/WSOL",
+    "tvl": 1249645.2249339984
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump",
+    "pool_id": "EwUU8oiKTomjekU5eszctx3kneKJnKm5BJpn5sTT4CUf",
+    "pair": "PYTHIA/WSOL",
+    "tvl": 2942151.4697917597
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "JB2wezZLdzWfnaCfHxLg193RS3Rh51ThiXxEDWQDpump",
+    "pool_id": "F4tvy3dTBGMc5dcUgXWz28SEnbXs3JiZBjvr9euAeLVc",
+    "pair": "LABUBU/WSOL",
+    "tvl": 78625.57701376402
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "8XtRWb4uAAJFMP4QQhoYYCWR6XXb7ybcCdiqPwz9s5WS",
+    "pool_id": "4rQu7doLL5CtArsNjoZwy5LC8t91tYVQTaiBs9Z8M3kD",
+    "pair": "ALON/WSOL",
+    "tvl": 69486.97716038115
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "pool_id": "34tu7kfp9W6qks6h6MAKgMS9wfDk3SsVwXf5H6Z2kd5k",
+    "pair": "USDT/WSOL",
+    "tvl": 95804.94602956876
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "9Q1njS4j8svdjCnGd2xJn7RAkqrJ2vqjaPs3sXRZ6UR7",
+    "pair": "USDC/WSOL",
+    "tvl": 761988.7248595969
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "pool_id": "7qt1qBnQ5CNNpMH1no6jYAzuyazP5QWXsUZB7dot5kga",
+    "pair": "JUP/WSOL",
+    "tvl": 219405.2088622164
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+    "pool_id": "44bUbBQxukyZ8rr3B5W8L3Gm8dm1QcL7gERD32zL7vpY",
+    "pair": "GIGA/WSOL",
+    "tvl": 395976.30664037325
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
+    "pool_id": "4ctsQ4nWGuumFNi2JmbLiC7jRY8u3afmGA3nWVMGkQFw",
+    "pair": "VIRTUAL/WSOL",
+    "tvl": 83477.42515193197
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "pool_id": "C8Gr6AUuq9hEdSYJzoEpNcdjpojPZwqG5MtQbeouNNwg",
+    "pair": "JUP/WSOL",
+    "tvl": 4100153.7046959884
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+    "pool_id": "8CPypcvEBUoqAyjrpKyWa5y1V4xKh3WxUh3K9ZiDCm8u",
+    "pair": "WETH/WSOL",
+    "tvl": 82375.5903953725
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
+    "pool_id": "CAU3CPUVkxQiDKihQRiEuPJAvKEiyasxzK5Bc9k1Vdrj",
+    "pair": "VIRTUAL/WSOL",
+    "tvl": 166919.74560150877
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "3JgFwoYV74f6LwWjQWnr3YDPFnmBdwQfNyubv99jqUoq",
+    "pool_id": "CkYNeTQFzdouxU2zrmFoovsLuG4AH4jbmBfZ87w1j2Gf",
+    "pair": "wPOND/WSOL",
+    "tvl": 28508.69828084568
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pool_id": "4Dvr3ghgphp4aTAsB34fmPP9Uk6e6xui6PbPaNiAHqRo",
+    "pair": "Fartcoin /WSOL",
+    "tvl": 63550.443539754786
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "HRYEjwdo3bZ1TpXKWKcezqiwSV2Ywuh4LxMa2PzoCnG6",
+    "pair": "USDC/WSOL",
+    "tvl": 80869.78910740945
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+    "pool_id": "7q1BaMsFikgMJBMmmzF4nD9mxE6agFASnxGGq58LVd43",
+    "pair": "JLP/WSOL",
+    "tvl": 151478.00359309133
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+    "pool_id": "J1TWx1nqLbr2eXHSJuW4Bw2dd5WyLgZ4WihYpcF6txZp",
+    "pair": "Hosico/WSOL",
+    "tvl": 1176005.1879550687
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump",
+    "pool_id": "5Dbj3VpZnmDG8WM2G15BWWgoTGwDmPQJuucGSvrffUEk",
+    "pair": "titcoin/WSOL",
+    "tvl": 71860.78368224527
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+    "pool_id": "EbLiu3GfBYh9cfxrdrfhQgbZJmXqch38NmzZKZSkFGGq",
+    "pair": "POPCAT/WSOL",
+    "tvl": 808789.5606160514
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "CfVs3waH2Z9TM397qSkaipTDhA9wWgtt8UchZKfwkYiu",
+    "pool_id": "9B2KCtKM5U8qAuE1tzFDCf7QLcWVPerNJcawoDpg4KGt",
+    "pair": "KNET/WSOL",
+    "tvl": 231056.96090917778
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "BVRbyLjjfSBcoyiYFuxbgKYnWuiFaF9CSXEa5vdSZ9Hh",
+    "pair": "USDC/WSOL",
+    "tvl": 4152928.0232998687
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "5BKxfWMbmYBAEWvyPZS9esPducUba9GqyMjtLCfbaqyF",
+    "pair": "USDC/WSOL",
+    "tvl": 99612.76673242898
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "CgqwPLSFfht89pF5RSKGUUMFj5zRxoUt4861w2SkXaqY",
+    "pair": "USDC/WSOL",
+    "tvl": 1721176.5941685308
+  },
+  {
+    "dex_name": "dlmm",
+    "mint": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
+    "pool_id": "5BEYpX8vFT9FZx7doc8cdhzUXZh7Tbr3GR27tHYcZQjB",
+    "pair": "GRASS/WSOL",
+    "tvl": 89939.26857267098
+  },
+  {
+    "dex_name": "v4",
+    "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pool_id": "Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw",
+    "pair": "Fartcoin /WSOL",
+    "tvl": 21440212.14
+  },
+  {
+    "dex_name": "v4",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2",
+    "pair": "USDC/WSOL",
+    "tvl": 14147009.48
+  },
+  {
+    "dex_name": "v4",
+    "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "pool_id": "EP2ib6dYdEeqD8MfE2ezHCxX3kP3K2eLKkirfPm5eyMx",
+    "pair": "$WIF/WSOL",
+    "tvl": 13832572.78
+  },
+  {
+    "dex_name": "v4",
+    "mint": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+    "pool_id": "FRhB8L7Y9Qq41qZXYLtC2nw8An1RJfLLxRF2x9RwLLMo",
+    "pair": "POPCAT/WSOL",
+    "tvl": 10425273.27
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "3ucNos4NbumPLZNWztqGHNFFgkHeRMBQAVemeeomsUxv",
+    "pair": "USDC/WSOL",
+    "tvl": 9374819.94
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "pool_id": "2uoKbPEidR7KAMYtY4x7xdkHXWqYib5k4CutJauSL3Mc",
+    "pair": "JitoSOL/WSOL",
+    "tvl": 7681884.51
+  },
+  {
+    "dex_name": "v4",
+    "mint": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "pool_id": "AVs9TA4nWDzfPJE9gGVNJMVhcQy3V9PGazuz33BfG2RA",
+    "pair": "RAY/WSOL",
+    "tvl": 7434948.63
+  },
+  {
+    "dex_name": "v4",
+    "mint": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
+    "pool_id": "22WrmyTj8x2TRVQen3fxxi2r4Rn6JDHWoMTpsSmn8RUd",
+    "pair": "MOODENG/WSOL",
+    "tvl": 6550776.4
+  },
+  {
+    "dex_name": "v4",
+    "mint": "DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2",
+    "pool_id": "9ViX1VductEoC2wERTSp2TuDxXPwAf69aeET8ENPJpsN",
+    "pair": "aura/WSOL",
+    "tvl": 5475352.96
+  },
+  {
+    "dex_name": "v4",
+    "mint": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+    "pool_id": "AB1eu2L1Jr3nfEft85AuD2zGksUbam1Kr8MR3uM2sjwt",
+    "pair": "FWOG/WSOL",
+    "tvl": 4491162.67
+  },
+  {
+    "dex_name": "v4",
+    "mint": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+    "pool_id": "4xxM4cdb6MEsCxM52xvYqkNbzvdeWWsPDZrBcTqVGUar",
+    "pair": "GIGA/WSOL",
+    "tvl": 4442867.66
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "pool_id": "2AXXcN6oN9bBT5owwmTH53C7QHUXvhLeu718Kqt8rvY2",
+    "pair": "RAY/WSOL",
+    "tvl": 4376897.13
+  },
+  {
+    "dex_name": "v4",
+    "mint": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+    "pool_id": "9t1H1uDJ558iMPNkEPSN1fqkpC4XSPQ6cqSf6uEsTfTR",
+    "pair": "SPX/WSOL",
+    "tvl": 3753785.01
+  },
+  {
+    "dex_name": "v4",
+    "mint": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+    "pool_id": "CpsMssqi3P9VMvNqxrdWVbSBCwyUHbGgNcrw7MorBq3g",
+    "pair": "GRIFFAIN/WSOL",
+    "tvl": 3284315.65
+  },
+  {
+    "dex_name": "v4",
+    "mint": "JB2wezZLdzWfnaCfHxLg193RS3Rh51ThiXxEDWQDpump",
+    "pool_id": "FYAnFcdjkcfAkbtZqixnTqNVLoDjJft82L5FFgPaSWe3",
+    "pair": "LABUBU/WSOL",
+    "tvl": 2560476.82
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj",
+    "pair": "USDC/WSOL",
+    "tvl": 2529229.38
+  },
+  {
+    "dex_name": "v4",
+    "mint": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
+    "pool_id": "HL4KFTfhZZMm7NGefszQxzJ3M6CaDWE7TesyuRuQYmMJ",
+    "pair": "swarms/WSOL",
+    "tvl": 2496935.47
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "CYbD9RaToYMtWKA7QZyoLahnHdWq553Vm62Lh6qWtuxq",
+    "pair": "USDC/WSOL",
+    "tvl": 1888319.88
+  },
+  {
+    "dex_name": "v4",
+    "mint": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+    "pool_id": "J333LZ5UhEjwxb64dcD756viUFXr164dVNxQpXuMPH9V",
+    "pair": "Hosico/WSOL",
+    "tvl": 1817677.64
+  },
+  {
+    "dex_name": "v4",
+    "mint": "CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump",
+    "pool_id": "HCeas2dbSrCrHNuzBVpkuaSz7X3oVu9ekzxMc5ZDsZ4j",
+    "pair": "PYTHIA/WSOL",
+    "tvl": 1686441.74
+  },
+  {
+    "dex_name": "v4",
+    "mint": "FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump",
+    "pool_id": "4qQM2x2pfhU3ToscAqkQxTfhTm7DmJe8LGWU9kvqeNH4",
+    "pair": "titcoin/WSOL",
+    "tvl": 1650531.08
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "Ey59PH7Z4BFU4HjyKnyMdWt5GGN76KazTAwQihoUXRnk",
+    "pool_id": "YrrUStgPugDp8BbfosqDeFssen6sA75ZS1QJvgnHtmY",
+    "pair": "LAUNCHCOIN/WSOL",
+    "tvl": 1452616.1
+  },
+  {
+    "dex_name": "v4",
+    "mint": "C7heQqfNzdMbUFQwcHkL9FvdwsFsDRBnfwZDDyWYCLTZ",
+    "pool_id": "DeAWLtRGAqCW7imV1jSC9NZkRKKGStFC1U7eDFBRxryR",
+    "pair": "$COLLAT/WSOL",
+    "tvl": 1350626.24
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
+    "pool_id": "GTJ2S27UL7yZ3TdTwpKjfNcxeEZRkRPHjpj5Fubwb8Mk",
+    "pair": "GRASS/WSOL",
+    "tvl": 1243057.28
+  },
+  {
+    "dex_name": "v4",
+    "mint": "8XtRWb4uAAJFMP4QQhoYYCWR6XXb7ybcCdiqPwz9s5WS",
+    "pool_id": "Eb9qkfiSzKd185KdWLkZrMrejKEbA2ah2BK7spNmoPej",
+    "pair": "ALON/WSOL",
+    "tvl": 1186319.72
+  },
+  {
+    "dex_name": "v4",
+    "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "pool_id": "7XawhbbxtsRcQA8KTkHT9f9nc6d69UwqCDh6U5EEbEmX",
+    "pair": "USDT/WSOL",
+    "tvl": 1078224.55
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "pool_id": "3nMFwZXwY1s1M5s8vYAHqd4wGs4iSxXE4LRoUMMYqEgF",
+    "pair": "USDT/WSOL",
+    "tvl": 1056024.25
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY",
+    "pool_id": "CTpkCQufppiECZJesCkvy1nETmVQQMFK41EoFjw1x4WG",
+    "pair": "BMT/WSOL",
+    "tvl": 962268.99
+  },
+  {
+    "dex_name": "v4",
+    "mint": "Cy1GS2FqefgaMbi45UunrUzin1rfEmTUYnomddzBpump",
+    "pool_id": "AemYRZmJryzAQ9Z4RLfUBLnPRUY5ecooc94EJvemfti4",
+    "pair": "MOBY/WSOL",
+    "tvl": 902875.1
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
+    "pool_id": "3nNg189ewAxiNeRt3hHuMzTrL6hpwUZ7zXUWTcQhTojq",
+    "pair": "ME/WSOL",
+    "tvl": 819966.15
+  },
+  {
+    "dex_name": "v4",
+    "mint": "CN162nCPpq3DxPCyKLbAvEJeB1aCxsnVTEG4ZU8vpump",
+    "pool_id": "CbYweHJeB92Lu7UTiASP3UcGfYPyxhEUjchKf6Yh3fPN",
+    "pair": "A47/WSOL",
+    "tvl": 788156.95
+  },
+  {
+    "dex_name": "v4",
+    "mint": "BYZ9CcZGKAXmN2uDsKcQMM9UnZacija4vWcns9Th69xb",
+    "pool_id": "BourCfkdGsr55XAVzDeU6tci7twRTiCGRvCLioENnBBX",
+    "pair": "BOTIFY/WSOL",
+    "tvl": 770305.06
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "pool_id": "Enfoa5Xdtirwa46xxa5LUVcQWe7EUb2pGzTjfvU7EBS1",
+    "pair": "RAY/WSOL",
+    "tvl": 739604.57
+  },
+  {
+    "dex_name": "v4",
+    "mint": "CDBdbNqmrLu1PcgjrFG52yxg71QnFhBZcUE6PSFdbonk",
+    "pool_id": "Hv1i8WrxEhL8djBuxhFGJxXTt4qEupywWKFSgGB5A7w6",
+    "pair": "LetsBONK/WSOL",
+    "tvl": 631852.96
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "2QdhepnKRTLjjSqPL1PtKNwqrUkoLee5Gqs8bvZhRdMv",
+    "pair": "USDC/WSOL",
+    "tvl": 591401.26
+  },
+  {
+    "dex_name": "v4",
+    "mint": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+    "pool_id": "4yrHms7ekgTBgJg77zJ33TsWrraqHsCXDtuSZqUsuGHb",
+    "pair": "WETH/WSOL",
+    "tvl": 549057.26
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+    "pool_id": "8KbrpeSRYXYjWSSdG7gE1tR7Go8MmKKxKaei1gGc4U7Q",
+    "pair": "JLP/WSOL",
+    "tvl": 543145.15
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "pool_id": "GQsPr4RJk9AZkkfWHud7v4MtotcxhaYzZHdsPCg9vNvW",
+    "pair": "TRUMP/WSOL",
+    "tvl": 518122.41
+  },
+  {
+    "dex_name": "v4",
+    "mint": "JosjEXh69RckgSs2AWsN1xN8zmiSHxBuJjHLURJnHhg",
+    "pool_id": "CwTDbhxMPGG8biMdgDiHeTEywr4HDKawRtiPv7W1UDk3",
+    "pair": "JOS/WSOL",
+    "tvl": 428900.74
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "pool_id": "EZVkeboWeXygtq8LMyENHyXdF5wpYrtExRNH9UwB1qYw",
+    "pair": "JUP/WSOL",
+    "tvl": 366001.29
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "pool_id": "6kT4MhDqKrkWikaGpFCvYsk45BUKXEe2gTpNGAR1YcjS",
+    "pair": "USDT/WSOL",
+    "tvl": 339094.1
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
+    "pool_id": "ENE5MsxSPqoKVg2TH2QabAKRBRwdsAq2cMiqydsnSN4s",
+    "pair": "swarms/WSOL",
+    "tvl": 297179.09
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pool_id": "6U4TBh3aJgiJ5EqCDEua4rP75HsqcfHapMKhhyuTqGuo",
+    "pair": "Fartcoin /WSOL",
+    "tvl": 285056.56
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+    "pool_id": "6tpEjdVoV7spGbE4RdXNxmRXbw4wb5ouLupDWpLYZyNH",
+    "pair": "KMNO/WSOL",
+    "tvl": 281483.14
+  },
+  {
+    "dex_name": "v4",
+    "mint": "4BBjpGwLgGmUxtT82YFK9xMhcvyy3zgf3HpxTRip1YoU",
+    "pool_id": "DWyRyrApqEro1GPFtJFcC8xn4sQf4xuuxh5svPuAByf2",
+    "pair": "Mundi/WSOL",
+    "tvl": 243843.15
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "pool_id": "B4Vwozy1FGtp8SELXSXydWSzavPUGnJ77DURV2k4MhUV",
+    "pair": "PENGU/WSOL",
+    "tvl": 217669.56
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2",
+    "pool_id": "DDcigAvnxM6MUJuhenLQ3SnrgY93Y4qbavEC8NkCwCUN",
+    "pair": "aura/WSOL",
+    "tvl": 213172.09
+  },
+  {
+    "dex_name": "v4",
+    "mint": "2DSFvQtdoqv7DjPgXL5tjTYJ3ABBnoBeTfAJTXNdbonk",
+    "pool_id": "H5TmGsYpr3NmFk2pYhFMgXx7qVBQHjEcZUHCvjCBCSUx",
+    "pair": "TONIC/WSOL",
+    "tvl": 200200.76
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "CN162nCPpq3DxPCyKLbAvEJeB1aCxsnVTEG4ZU8vpump",
+    "pool_id": "G59EmU5P85uXYcbPh5JVT6Gz4dYgcd6s6gXvUk6deRJG",
+    "pair": "A47/WSOL",
+    "tvl": 194523.64
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "Ey59PH7Z4BFU4HjyKnyMdWt5GGN76KazTAwQihoUXRnk",
+    "pool_id": "KB13mkt2w3Aux4GmT2DU4Wy4B3zyYNEmPWc5UtVqpJ7",
+    "pair": "LAUNCHCOIN/WSOL",
+    "tvl": 171926.01
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "3JgFwoYV74f6LwWjQWnr3YDPFnmBdwQfNyubv99jqUoq",
+    "pool_id": "HdM9481g5mXApUUsMSMxwVcRVcTde7nqLjGsgqMMf4P2",
+    "pair": "wPOND/WSOL",
+    "tvl": 150243.4
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "pool_id": "ExcBWu8fGPdJiaF1b1z3iEef38sjQJks8xvj6M85pPY6",
+    "pair": "USDT/WSOL",
+    "tvl": 124245.67
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
+    "pool_id": "Ay22yvM12WkPfgotGRZu7uiUx4KKYwxouTfbCCsgS74c",
+    "pair": "VIRTUAL/WSOL",
+    "tvl": 117815.09
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "mae8vJGf8Wju8Ron1oDTQVaTGGBpcpWDwoRQJALMMf2",
+    "pool_id": "2fuAtVSAMSJiQsZZmyvKLApm6szYSfdzEkpG5ted5NEv",
+    "pair": "MASHA/WSOL",
+    "tvl": 99397.75
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "4BBjpGwLgGmUxtT82YFK9xMhcvyy3zgf3HpxTRip1YoU",
+    "pool_id": "HaLFpbmwzfW2T2rCoWXpZ5HUpmpEfG9tkBaZdhzUPU2G",
+    "pair": "Mundi/WSOL",
+    "tvl": 99041.13
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "pool_id": "GtKKKs3yaPdHbQd2aZS4SfWhy8zQ988BJGnKNndLxYsN",
+    "pair": "Bonk/WSOL",
+    "tvl": 95576.33
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pool_id": "FdjBRWXzieV1Qtn8FLDWWk2HK1HSQWYduo8y4F1e8GWu",
+    "pair": "Fartcoin /WSOL",
+    "tvl": 81943.89
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "pool_id": "4r2AGQRjuLpGL9o1vuW1mkcVHvE4DTi7YZJhqGHj2qeR",
+    "pair": "PENGU/WSOL",
+    "tvl": 79314.38
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "JB2wezZLdzWfnaCfHxLg193RS3Rh51ThiXxEDWQDpump",
+    "pool_id": "GmXx1sc3khZDzLm9kbx1DezPezPjUbQTWcvbt4cLgNaN",
+    "pair": "LABUBU/WSOL",
+    "tvl": 79282.16
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
+    "pool_id": "pBepKfFNUU7v3onEbUpRhjUZR7ajogXCAPiU9fBWTVK",
+    "pair": "zBTC/WSOL",
+    "tvl": 79078.07
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "pool_id": "ysq96dVZrrMVRassYB2Vr5cHFWoSQDRzQRGNmRRtr1L",
+    "pair": "Bonk/WSOL",
+    "tvl": 71222.61
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+    "pool_id": "DeNFmyYsMPyAcZx4NChYaU68zcqBQZuntQHwEyBrFE7f",
+    "pair": "TROLL/WSOL",
+    "tvl": 66360.12
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "2SjLv6XwViJ17rq21N1y98LbMee1J4DXinP61rk9v2aK",
+    "pair": "USDC/WSOL",
+    "tvl": 60245.3
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "CiSQxEhiS1j7PVHy57LqmjFWL1N7ciYD45Enq5tSyfaN",
+    "pair": "USDC/WSOL",
+    "tvl": 60220.74
+  },
+  {
+    "dex_name": "v4",
+    "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "pool_id": "HVNwzt7Pxfu76KHCMQPTLuTCLTm6WnQ1esLv4eizseSv",
+    "pair": "Bonk/WSOL",
+    "tvl": 59921.28
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "CztrCcLhgfazkBchMW7wXQL37AWQdBP1tQWHBR249neh",
+    "pair": "USDC/WSOL",
+    "tvl": 59292.81
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "GqxUEcFw8GbfDPoWU6UG2ypvsM3aw3vZmiN4e1Nbv94G",
+    "pair": "USDC/WSOL",
+    "tvl": 58749.89
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "5s7njN2X6k3trkibTKX6LJFu4PnybYhCuADP9LD2fhuP",
+    "pair": "USDC/WSOL",
+    "tvl": 57501.42
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
+    "pool_id": "8FM9Cd28PNFaHTJiEQE96HCgfyQZ2E3kk3rEvVtenZE",
+    "pair": "USDUC/WSOL",
+    "tvl": 52339.19
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "8XtRWb4uAAJFMP4QQhoYYCWR6XXb7ybcCdiqPwz9s5WS",
+    "pool_id": "Hk5RnbC9BfKTYEPxLbqNNRnq915ZqXYhuvJso81AZAEp",
+    "pair": "ALON/WSOL",
+    "tvl": 47661.28
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "BYZ9CcZGKAXmN2uDsKcQMM9UnZacija4vWcns9Th69xb",
+    "pool_id": "HwQpj9HY4vFYrqez7kB8bvsVokWRu2bbvDF2HC4kasjh",
+    "pair": "BOTIFY/WSOL",
+    "tvl": 28485.33
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+    "pool_id": "9byT27JF1YcZNbdfYgrhb3ZKQTjidjb9eTd3EFX4muRZ",
+    "pair": "GRIFFAIN/WSOL",
+    "tvl": 28359.21
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "CfVs3waH2Z9TM397qSkaipTDhA9wWgtt8UchZKfwkYiu",
+    "pool_id": "Bhc3cU3yNmAqU9AG2FyB4TBaK6LWJ84DAvYAWinvz4ym",
+    "pair": "KNET/WSOL",
+    "tvl": 24018.61
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+    "pool_id": "Gs3zMFwWZAy9Sa9ZKq8D2WzVGsjYTfJJsqMDhy4giWN9",
+    "pair": "FWOG/WSOL",
+    "tvl": 20218.86
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "pool_id": "EXHyQxMSttcvLPwjENnXCPZ8GmLjJYHtNBnAkcFeFKMn",
+    "pair": "USDC/WSOL",
+    "tvl": 19662.55
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+    "pool_id": "Do8Mwqor6QNgcSYS2NRFtdxQN1a8jtT1kZ1E8uwbLfSu",
+    "pair": "SPX/WSOL",
+    "tvl": 19258.45
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "pool_id": "BjZKz1z4UMjJPvPfKwTwjPErVBWnewnJFvcZB6minymy",
+    "pair": "Bonk/WSOL",
+    "tvl": 18148.05
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+    "pool_id": "BLk5QeKw5qiwVN8K5SQKzkgyWpzXgnXoaAhGLLxC2USe",
+    "pair": "neet/WSOL",
+    "tvl": 14143.45
+  },
+  {
+    "dex_name": "clmm",
+    "mint": "C7heQqfNzdMbUFQwcHkL9FvdwsFsDRBnfwZDDyWYCLTZ",
+    "pool_id": "BtxxZetfDCpBfFJ4QVXh853BhzD4RgRKpwCXxzq1QmSM",
+    "pair": "$COLLAT/WSOL",
+    "tvl": 12276.97
+  }
+]
